@@ -2,4 +2,4 @@
 
 ## Preview
 
-[![Resume Preview](https://github.com/andylcastillop/andylcastillop/blob/master/src/preview/preview.png)](https://andylcastillop.github.io/andylcastillop/)
+[![Resume Preview](https://github.com/andylcastillop/elnegociodeheidy/blob/master/img/preview.PNG?raw=true](https://andylcastillop.github.io/elnegociodeheidy/)
